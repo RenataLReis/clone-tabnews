@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Programação é massa, Nik</h1>
+    return <h1>Vanderval, você é meu amorzão, sabia?</h1>
 }
 
 export default Home;
